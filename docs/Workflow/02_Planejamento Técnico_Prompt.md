@@ -35,6 +35,7 @@ Definir de forma clara **linguagem, frameworks, banco de dados, estrutura de pas
 **DESVIOS POSSÍVEIS:**
 
 -   Se não souber escolher tecnologias, sugerir opções populares (ex.: Python + FastAPI + React + SQLite).
+-   Se o usuário solicitar um tipos de estruturas de pastas, o ChatGPT deve gerar as esrtuturas de pastas de cada arquitetura (MVC, Em Camadas, Hexagonal, Clean Architecture) para escolha
 -   Se não houver roadmap formal, gerar uma versão simplificada baseada nas funcionalidades do teste.
 
 **CONDIÇÃO PARA INFORMAÇÃO INSUFICIENTE:**
@@ -43,7 +44,7 @@ Definir de forma clara **linguagem, frameworks, banco de dados, estrutura de pas
 
 **FORMATO:**
 
--   Seção estruturada: Tecnologias backend, Tecnologias frontend, Banco de dados, Documentação API, Estrutura de pastas, Roadmap/Sprints
+-   Seção estruturada: Tecnologias backend, Tecnologias frontend, Banco de dados + DRE, Documentação API, Estrutura de pastas, Roadmap/Sprints
 
 **ATIVAÇÃO:**
 “Vamos planejar a parte técnica do seu projeto de gestão de tarefas. Me diga:
