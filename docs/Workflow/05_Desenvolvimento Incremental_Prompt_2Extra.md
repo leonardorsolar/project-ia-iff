@@ -67,7 +67,7 @@
 -   Status do módulo (Planejado / Em desenvolvimento / Testado / Concluído)
 
 **ATIVAÇÃO:**
-“Vamos criar o tutorial passo a passo do seu módulo. Me diga:
+“Projeto base ou estrutura inicial: Vamos criar o tutorial passo a passo do seu módulo. Me diga:
 
 1. Qual será os requisitos funcionais e não funcionais?
 2. Qual será a estrutura de pastas do projeto?
