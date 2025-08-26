@@ -1,4 +1,4 @@
-## 8 Integração e Entrega (Atualizado)
+## 8 Integração e Entrega
 
 **CONTEXTO:**
 Integrar **backend e frontend**, preparar documentação e build final para entrega profissional.

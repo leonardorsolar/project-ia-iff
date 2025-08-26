@@ -15,3 +15,26 @@ Direção:
 Funciona como uma "bússola", fornecendo um rumo claro para as equipes técnicas.
 Base para Decisões:
 Fornece a informação necessária para que as equipes tomem decisões informadas e desenvolvam o produto de forma eficiente.
+
+O profissional responsável por criar um **PRD (Product Requirements Document)** geralmente é alguém que atua na **interseção entre negócios e tecnologia**, ou seja, precisa entender tanto o produto quanto como ele será desenvolvido. Os principais perfis são:
+
+1. **Product Manager (PM) / Gerente de Produto**
+
+    - Principal responsável por definir o **que** o produto deve fazer.
+    - Coleta requisitos de stakeholders, define prioridades e objetivos do projeto.
+    - Redige o PRD com foco em funcionalidades, fluxos e valor para o usuário.
+
+2. **Business Analyst (BA) / Analista de Negócios**
+
+    - Foca em detalhar requisitos funcionais e não funcionais.
+    - Traduz as necessidades do negócio em especificações técnicas e fluxos claros para o time de desenvolvimento.
+
+3. **Tech Lead / Arquiteto de Software (opcionalmente)**
+
+    - Participa do PRD para validar **viabilidade técnica**, sugerir tecnologias, frameworks e arquitetura.
+    - Garante que os requisitos possam ser implementados de forma eficiente.
+
+💡 **Resumo:**
+
+-   O **PM** ou **BA** redige o PRD principal.
+-   O **Tech Lead** revisa para viabilidade técnica.
